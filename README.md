@@ -1,0 +1,1 @@
+# advanced_event_management_platform
