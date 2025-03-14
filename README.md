@@ -1,1 +1,4 @@
-# advanced_event_management_platform
+Step 1:
+rails db:create
+rails db:migrate
+rails db:seed
